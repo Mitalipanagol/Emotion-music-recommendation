@@ -1,0 +1,10 @@
+tensorflow>=2.16.0
+opencv-python
+numpy
+pandas
+matplotlib
+streamlit
+spotipy
+scikit-learn
+pillow
+
